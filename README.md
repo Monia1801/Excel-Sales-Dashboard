@@ -31,6 +31,10 @@ The goal of this project is to transform raw sales data into meaningful visual i
 - Clean and professional dashboard layout
 
 
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+
 ## 💡 Insights Derived
 - Identified top-performing product categories
 - Analyzed revenue growth patterns across months
@@ -47,10 +51,9 @@ The goal of this project is to transform raw sales data into meaningful visual i
 
 ## 📌 Repository Structure
 excel-sales-dashboard/
-│
-├── Amazon_Sales_Dashboard.xlsx
-├── dashboard_preview.png
-└── README.md
+|---Amazon_Sales_Dashboard.xlsx
+|---dashboard_preview.png
+|---README.md
 
 
 ## 👩‍💻 Author
